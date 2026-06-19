@@ -5,7 +5,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/pyroxhacker/rupam-s-protfolio](https://github.com/pyroxhacker/rupam-s-protfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/pyroxhacker/rupam-s-protfolio](https://github.com/pyroxhacker?tab=repositories)
 
 - 💬 Ask me about **funny fact**
 
